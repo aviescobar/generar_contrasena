@@ -22,5 +22,9 @@ def generar_contrasena(longitud):
 
   
   carac
+
+   c
+''.join(random.choice(caracteres) for i in range(longitud))
+
   
 
