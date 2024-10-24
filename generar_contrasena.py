@@ -26,6 +26,7 @@ def generar_contrasena(longitud):
    c
 ''.join(random.choice(caracteres) for i in range(longitud))
 longitud = 
+long
 
 
   
