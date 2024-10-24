@@ -17,5 +17,5 @@ def generar_contrasena(longitud):
   caracteres = string.ascii_lette
   caracteres = string.ascii_le
   caracteres = string.
-   
+   caracteres = strin
 
