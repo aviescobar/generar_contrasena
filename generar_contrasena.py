@@ -13,5 +13,7 @@ def generar_contrasena(longitud):
 
   caracteres = string.ascii_letters + string.digits +
   caracteres = string.ascii_letters
+
+  caracteres = string.ascii_lette
    
 
