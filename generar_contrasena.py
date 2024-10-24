@@ -27,6 +27,7 @@ def generar_contrasena(longitud):
 ''.join(random.choice(caracteres) for i in range(longitud))
 longitud = 
 long
+int(input("Ingresa la longitud de la contraseña: "))
 
 
   
