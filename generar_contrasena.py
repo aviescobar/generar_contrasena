@@ -28,6 +28,7 @@ def generar_contrasena(longitud):
 longitud = 
 long
 int(input("Ingresa la longitud de la contraseña: "))
+print("Contraseña generada: ", generar_contrasena(longitud))
 
 
   
